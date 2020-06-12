@@ -11,7 +11,7 @@ int main() {
     int le = 0;
     float s, l;
 
-    cout << "text: "
+    cout << "text: ";
     getline(cin, a);
     for (int x = 0; x < a.length(); x++) {
         char r = 'A';
